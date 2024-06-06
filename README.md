@@ -25,3 +25,17 @@
    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"
      alt="Google drive"/>
 </a></div>
+
+### Languages and Tools
+<img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"
+    title="C#"/>&nbsp;
+<img height="32" width="32" src ="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/csharp.svg"
+    title="C#"/>&nbsp;
+<img height="32" width="32" src ="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/unity.svg"
+    title="Unity"/>&nbsp;
+<img height="32" width="32" src ="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/visualstudio.svg"
+    title="Visual Studio"/>&nbsp;
+<img height="32" width="32" src ="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/git.svg"
+    title="Git"/>&nbsp;
+<img height="32" width="32" src ="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/blender.svg"
+    title="Blender"/>&nbsp;
