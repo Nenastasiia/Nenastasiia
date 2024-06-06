@@ -20,16 +20,6 @@
 - **_Ищу вакансию на позицию Junior C# Unity developer_**
 - Рассматриваю преимущественно **_удалённую работу с полной занятостью_**
 
-<div id="body" align="center"><i>
-    <h1></h1>
-    По ссылке ниже вы можете ознакомиться с моими проектами:</i>  
-</div>
-<div id="body" align="center">
-    <a href ="https://drive.google.com/drive/folders/1NROk3kPHVRZaOKgD-77gB5_a05p8mj4f?usp=drive_link">
-   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"
-     alt="Google drive"/>
-    <h2></h2>
-</a></div>
 
 ### Languages and Tools
 <img height="32" width="32" src ="https://cdn.simpleicons.org/csharp/#512BD4/[DARK_MODE_COLOR]"
@@ -50,6 +40,40 @@
     title="Working with Windows OS"/>&nbsp;
 <img height="32" width="32" src ="https://cdn.simpleicons.org/macos/#FFFFFF"
     title="Working with Mac OS"/>&nbsp;
+
+
+<div id="body" align="center">
+<h1></h1>
+<h3>Ниже находятся ссылки на мои проекты:</h3>
+<h6>По ссылкам находятся сжатые папки с билдами. В каждой папке есть файл ReadMe, в котором можно посмотреть подробное описание по каждой игре (платформу, реализованные ключевые фичи, на какой стадии разработки находится проект и какие на него планы в будущем)</h6>
+
+</div>
+<div id="body" align="center">   
+    
+🔑 [3D Adventure](https://drive.google.com/drive/folders/1am3mwqDlFyOTp1QNiPW15IE538YRSU9N?usp=sharing) 
+
+🏐 [Helix Jump](https://drive.google.com/drive/folders/1am3mwqDlFyOTp1QNiPW15IE538YRSU9N?usp=sharing) 
+
+🏔 [Tower Defense](https://drive.google.com/drive/folders/1am3mwqDlFyOTp1QNiPW15IE538YRSU9N?usp=sharing) 
+
+🚀 [Space Shooter](https://drive.google.com/drive/folders/1am3mwqDlFyOTp1QNiPW15IE538YRSU9N?usp=sharing) 
+
+💣 [Ball Blast](https://drive.google.com/drive/folders/1am3mwqDlFyOTp1QNiPW15IE538YRSU9N?usp=sharing) 
+
+<h1></h1>
+</div>
+
+<div id="body" align="center">   
+    
+<i>Дополнительную информацию обо мне и моих проектах можно узнать по ссылке снизу:</i>
+
+<a href ="https://drive.google.com/drive/folders/1NROk3kPHVRZaOKgD-77gB5_a05p8mj4f?usp=drive_link">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"
+     alt="Google drive"/>
+
+<h2></h2>     
+</a></div>
+
 
 <div id="stat" align="center"> 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nenastasiia&theme=github_dark"/>
