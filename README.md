@@ -68,12 +68,15 @@
 
 <div id="body" align="center">   
     
-<i>Дополнительную информацию обо мне и моих проектах можно узнать по ссылке снизу:</i>
+<i>Дополнительную информацию обо мне и моих проектах можно узнать по ссылкам снизу:</i>
 
 <a href ="https://drive.google.com/drive/folders/1NROk3kPHVRZaOKgD-77gB5_a05p8mj4f?usp=drive_link">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"
      alt="Google drive"/>
 
+<a href ="https://www.instagram.com/eineileidge?igsh=MXBuaTZsb2Zoeml4eQ%3D%3D&utm_source=qr">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+     title="Little peace of  ̷s̷h̷  my life"/>
 <h2></h2>     
 </a></div>
 
