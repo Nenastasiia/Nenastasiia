@@ -31,6 +31,8 @@
     title="Visual Studio"/>&nbsp;
 <img height="32" width="32" src ="https://cdn.simpleicons.org/git/#F05032/[DARK_MODE_COLOR]"
     title="Git"/>&nbsp;
+<img height="32" width="32" src ="https://cdn.simpleicons.org/sfml/#8CC445/[DARK_MODE_COLOR]"
+    title="SFML Libraries"/>&nbsp;
 <img height="32" width="32" src ="https://cdn.simpleicons.org/blender/#E87D0D/[DARK_MODE_COLOR]"
     title="Blender"/>&nbsp;
 <img height="32" width="32" src ="https://cdn.simpleicons.org/adobeillustrator/#FF9A00/[DARK_MODE_COLOR]"
