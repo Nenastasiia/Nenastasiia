@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>Привет! Меня зовут Настя  (•◡•) /</h1>
-    <h3>Я Junior C# Unity developer</h3>
+    <h1>Привет! Меня зовут Настя (•◡•) /</h1>
+    <h3> Junior C# Unity developer</h3>
 </div>  
 
 <div id="socials" align="center">
