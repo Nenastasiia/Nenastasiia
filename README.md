@@ -22,25 +22,25 @@
 
 
 ### Languages and Tools
-<img height="32" width="32" src ="https://cdn.simpleicons.org/csharp/#512BD4/[DARK_MODE_COLOR]"
+<img height="32" width="32" src ="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
     title="C#"/>&nbsp;
-<img height="32" width="32" src ="https://cdn.simpleicons.org/unity/#B5B5B6/[DARK_MODE_COLOR]"
+<img height="32" width="32" src ="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"
     title="Unity"/>&nbsp;
-<img height="32" width="32" src ="https://cdn.simpleicons.org/visualstudio/#5C2D91/[DARK_MODE_COLOR]"
+<img height="32" width="32" src ="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"
     title="Visual Studio"/>&nbsp;
-<img height="32" width="32" src ="https://cdn.simpleicons.org/git/#F05032/[DARK_MODE_COLOR]"
+<img height="32" width="32" src ="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
     title="Git"/>&nbsp;
-<img height="32" width="32" src ="https://cdn.simpleicons.org/sfml/#8CC445/[DARK_MODE_COLOR]"
+<img height="32" width="32" src ="https://www.sfml-dev.org/download/goodies/sfml-icon.svg"
     title="SFML Libraries"/>&nbsp;
-<img height="32" width="32" src ="https://cdn.simpleicons.org/blender/#E87D0D/[DARK_MODE_COLOR]"
+<img height="32" width="32" src ="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"
     title="Blender"/>&nbsp;
-<img height="32" width="32" src ="https://cdn.simpleicons.org/adobeillustrator/#FF9A00/[DARK_MODE_COLOR]"
+<img height="32" width="32" src ="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"
     title="Adobe Illustrator"/>&nbsp;
-<img height="32" width="32" src ="https://cdn.simpleicons.org/adobephotoshop/#31A8FF/[DARK_MODE_COLOR]"
+<img height="32" width="32" src ="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg"
     title="Adobe Photoshop"/>&nbsp;
-<img height="32" width="32" src ="https://cdn.simpleicons.org/windows11/#0078D4/[DARK_MODE_COLOR]"
+<img height="32" width="32" src ="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg"
     title="Working with Windows OS"/>&nbsp;
-<img height="32" width="32" src ="https://cdn.simpleicons.org/macos/#FFFFFF"
+<img height="32" width="32" src ="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"
     title="Working with Mac OS"/>&nbsp;
 
 
